@@ -1,5 +1,5 @@
 {
-  "name": "webrtc-server",
+  "name": "webrtc-server-socket.io",
   "version": "1.0.0",
   "description": "",
   "type": "module",
