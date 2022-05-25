@@ -4,7 +4,7 @@ const PORT = 8080;
 
 const server = new Server({
   cors: {
-    origin: 'http://localhost:3000'
+    origin: '*'
   }
 });
 const sockets = new Map();
